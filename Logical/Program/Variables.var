@@ -1,0 +1,4 @@
+VAR
+	speed : INT;
+	real_speed : INT;
+END_VAR
